@@ -30,7 +30,7 @@ $(document).ready(function(){
 	    	$("body").css("background-color","yellow")
 	    }
 
-	    if (thisHour%60==0) {
+	    else (thisHour%60==0) {
 	    	$("clock").css("color", "black")
 	    }
 		
