@@ -7,10 +7,10 @@ body{
   font-size: 5em;
   font-family: sans-serif;
   text-align: center;
-  margin-top: 250px;
+  margin-top: 75px;
   margin-bottom: 30px;
   background-color: yellow;
-  width: 300px;
+  width: 325px;
   margin-left: 475px;
 }
 
@@ -22,4 +22,8 @@ h1{
 p{
   text-align: center;
   
+}
+
+#min{
+  color: black;
 }
