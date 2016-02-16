@@ -19,7 +19,7 @@ $(document).ready(function(){
       thisSecond = "0" + thisSecond;
       }
         
-      if (thisMinute%2=== 0) { 
+      if (thisMinute%2===0) { 
         $("#min").css("color", "blue")
 
     } else {
@@ -27,11 +27,11 @@ $(document).ready(function(){
       }
 
 
-     if (thisMinute%5==0); {
+     if (thisMinute%5===0) {
         $("body").css("background-color", "yellow");
       }
 
-     if (thisHour % 1 === 0); {
+     if (thisHour%1===0) {
         $("#clock").css("color", "purple");
       } 
     
